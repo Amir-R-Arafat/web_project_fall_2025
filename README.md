@@ -75,10 +75,10 @@ Team leader will review and merge into `dev`.
 
 ## 👥 Team Members
 - **Team Leader:** Amir Rahman Arafat  
-- Member 2  
-- Member 3  
-- Member 4  
-- Member 5  
+- Sanida Islam
+- Nisrat Jahan Oishe 
+- Humayra Akter Labonno
+- Asiya Islam
 
 ---
 
